@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+
+# command
+
+commit.js
+commit9.cmd
+commit10.cmd
+commit11.cmd
