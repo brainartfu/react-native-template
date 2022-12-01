@@ -34,8 +34,6 @@ const Auth = () => {
   ) 
 }
 
-
-
 const App = () => {
   return (
     <NavigationContainer>
